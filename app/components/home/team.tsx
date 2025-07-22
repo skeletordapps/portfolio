@@ -10,7 +10,7 @@ const members = [
   {
     name: "Lucas",
     nickname: "Skeletor",
-    role: "CEO - Dev Master",
+    role: "Founder - Dev Master",
     description:
       "Master of the code and architect of chaos. Lucas leads Skeletor Labs with deep expertise in smart contracts, dApp engineering, and blockchain infrastructure. Builder of products, slayer of bugs, and commander of all things decentralized.",
     src: "/team/SKELETOR.svg",
